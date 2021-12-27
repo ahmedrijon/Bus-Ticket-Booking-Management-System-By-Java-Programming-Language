@@ -1,1 +1,4 @@
-# Bus-Ticket-Booking-Management-System-By-Java-Programming-Language
+# bus-applicaion
+bus ticket booking application
+
+using database mysql
